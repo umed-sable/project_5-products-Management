@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "ishvinder singh",
+  "author": "umed sable",
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.1111.0",
